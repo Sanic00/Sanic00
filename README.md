@@ -20,5 +20,5 @@
 
 <h3>SNS 💬</h3>
 <p>
-  <a href="https://www.instagram.com/zzan_9/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/haero_kim/"/></a>&nbsp
+  <a href="https://www.instagram.com/s_harpnic/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/haero_kim/"/></a>&nbsp
 </p>
